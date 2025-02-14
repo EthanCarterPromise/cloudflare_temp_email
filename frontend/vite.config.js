@@ -48,9 +48,9 @@ export default defineConfig({
         cleanupOutdatedCaches: true,
       },
       manifest: {
-        name: 'Temp Email',
-        short_name: 'Temp Email',
-        description: 'Temp Email - Temporary Email',
+        name: 'AIC Mail System',
+        short_name: 'AIC Mail System',
+        description: 'AIC Mail System - Temporary Email',
         theme_color: '#ffffff',
         icons: [
           {
